@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : 502570-0893.LibPkg
+
+Section : G:\My Drive\ITBA\7° Cuatrimestre\Laboratorio de Microcontroladores\Trabajos Prácticos\5 - Reproductor de MP3\Altium\Libraries\MicroSD Slot\502570-0893.lia
+    Section : PCB Library - 502570-0893.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 159
+            Warning - 1 : Skipping Token isVisible On Line 184
+            Warning - 1 : Skipping Token 502570-0893 On Line 198
+            Warning - 1 : Skipping Token attachedSymbol On Line 325
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [MOLEX_502570-0893][Primary] associated with PCAD Component [502570-0893] has been renamed to PCB FootPrint [MOLEX_502570-0893_502570-0893(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 502570-0893.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 161
+            Warning - 1 : Skipping Token layerContents On Line 186
+            Warning - 1 : Skipping Token layerContents On Line 190
+        EndSection
+
+        Section : Generating SCH Library - 502570-0893.SchLib
+            Warning - 0 : PCAD Pattern Graphics [MOLEX_502570-0893][Primary] associated with PCAD Component [502570-0893] has been renamed to PCB FootPrint [MOLEX_502570-0893_502570-0893(Primary)].
+        EndSection
+    EndSection
+EndSection
